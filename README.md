@@ -1,2 +1,3 @@
 # KMeans-Clustering
-Kmeans clustering 
+
+This file contains k means clustering code from scratch with visual examples and Image Compression example.
